@@ -27,11 +27,6 @@ Mockflare is a developer tool that allows you to:
 
 ![Mockflare Screenshot](./mockflare-screenshot-1.png)
 
----
-
-## ℹ️ About This Repository
-This repository is **for showcasing Mockflare only**.  
-The source code is **not open-source** at this time.
 
 ---
 
