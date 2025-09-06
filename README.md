@@ -31,4 +31,4 @@ Mockflare is a developer tool that allows you to:
 ---
 
 ## 📬 Feedback
-💡 Have ideas or feedback? Feel free to open an issue or reach out at **[your email/contact link]**.
+💡 Have ideas or feedback? Feel free to open an issue or reach out at **contact@mockflare.com**.
