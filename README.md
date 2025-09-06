@@ -1,11 +1,11 @@
 # Mockflare
 
-![Mockflare Banner](./mockflare-banner-1.png)
+![Mockflare Banner](./mockflare-banner-2.png)
 
 ⚡ **Mockflare** helps frontend developers move faster by generating **AI-powered mock APIs** in seconds.  
 No more waiting for the backend team — create endpoints, share them with your team, and keep building smoothly.
 
-![Mockflare Banner 2](./mockflare-banner-2.png)
+![Mockflare Banner 2](./mockflare-banner-1.png)
 
 ---
 
